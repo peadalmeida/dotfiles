@@ -1,5 +1,5 @@
 # Install missing programs
-sudo apt-get install -y xubuntu-restricted-extras comix dropbox vlc gimp build-essential tlp tlp-rdw
+sudo apt-get install -y xubuntu-restricted-extras comix vlc gimp build-essential tlp tlp-rdw
 sudo tlp start
 
 # Install shitty programs
