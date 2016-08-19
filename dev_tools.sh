@@ -6,7 +6,7 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
 
-# Install front end stuff
+# Install front-end stuff
 sudo apt install -y npm nodejs
 sudo npm install -g gulp
 
