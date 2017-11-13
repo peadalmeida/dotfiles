@@ -1,8 +1,7 @@
 # Install missing programs
-sudo apt-get install -y xubuntu-restricted-extras comix vlc gimp build-essential tlp tlp-rdw
-sudo tlp start
+sudo apt-get install -y ubuntu-restricted-extras comix vlc gimp build-essential
 
-# Install shitty programs
+# Install this shit
 sudo add-apt-repository ppa:webupd8team/java -y
 sudo apt-get update -y
 echo "This sucks"
